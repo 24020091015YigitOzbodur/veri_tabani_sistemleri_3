@@ -44,7 +44,6 @@ Projeyi bilgisayarınızda çalıştırmak için:
 📝 SQL Kurulum Scripti
 Veritabanını oluşturmak için SQL Server Management Studio'da şu sorguyu çalıştırabilirsiniz:
 
-[codde.sql](https://github.com/user-attachments/files/28326978/codde.sql)
 CREATE DATABASE Hafta3Odev;
 USE Hafta3Odev;
 CREATE TABLE Ogrenciler (
